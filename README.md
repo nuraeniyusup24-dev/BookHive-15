@@ -8,10 +8,10 @@ Dengan perkembangan teknologi informasi yang pesat, kebutuhan akan sistem pengel
 
 # Fitur Utama 
 A. Manajemen Buku 
- •	Tambah, edit, dan hapus data buku
- •	Pencarian buku berdasarkan judul, pengarang, ISBN, atau kategori
- •	Informasi stok tersedia dan total eksemplar
- •	Upload sampul buku
+ 1. Tambah, edit, dan hapus data buku
+ 2. Pencarian buku berdasarkan judul, pengarang, ISBN, atau kategori
+ 3. Informasi stok tersedia dan total eksemplar
+ 4. Upload sampul buku
 
 B. Manajemen Anggota
 •	Registrasi dan manajemen data anggota
