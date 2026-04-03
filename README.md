@@ -14,10 +14,10 @@ A. Manajemen Buku
  4. Upload sampul buku
 
 B. Manajemen Anggota
-•	Registrasi dan manajemen data anggota
-•	Kartu anggota digital dengan QR Code
-•	Riwayat peminjaman per anggota
-•	Status keanggotaan aktif/tidak aktif
+ •	Registrasi dan manajemen data anggota
+ •	Kartu anggota digital dengan QR Code
+ •	Riwayat peminjaman per anggota
+ •	Status keanggotaan aktif/tidak aktif
 
 C. Peminjaman Buku
 •	Form peminjaman dengan validasi stok otomatis
