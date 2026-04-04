@@ -31,5 +31,5 @@ D. Pengembalian Buku
 E. Laporan & Statistik
  1. Laporan peminjaman harian, mingguan, bulanan
  2. Buku paling banyak dipinjam
-•	Daftar anggota aktif dan peminjaman tertunggak
-•	Rekap denda terkumpul
+ 3. Daftar anggota aktif dan peminjaman tertunggak
+ 4. Rekap denda terkumpul
