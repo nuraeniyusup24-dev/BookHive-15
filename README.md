@@ -24,7 +24,7 @@ Tujuan dari aplikasi ini adalah untuk mempermudah pengelolaan perpustakaan agar 
 3. Pindahkan folder project ke htdocs
 4. Import database ke phpMyAdmin
 5. Jalankan di browser:
-   http://localhost/BookHive
+   http://localhost/BOOKHIVE
 
 
 # 📂 Struktur Folder
