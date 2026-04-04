@@ -1,6 +1,4 @@
 # BookHive 🐝📚
-
-## 📝 Deskripsi
 BookHive adalah aplikasi perpustakaan digital yang membantu mengelola data buku, anggota, peminjaman, dan pengembalian secara lebih mudah, cepat, dan rapi.
 
 ## 🎯 Tujuan
