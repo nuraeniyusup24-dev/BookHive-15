@@ -1,35 +1,37 @@
-# BookHive
-BookHive adalah aplikasi perpustakaan digital yang namanya diambil dari kata “Book” (buku) dan “Hive” (sarang lebah), yang menggambarkan sistem yang terorganisir dan saling terhubung.
+# 📚BookHive
+BookHive adalah aplikasi perpustakaan digital untuk mengelola data buku, anggota, peminjaman, dan pengembalian secara efisien dan terstruktur.
 
-Saat ini, banyak perpustakaan masih mencatat peminjaman dan pengembalian buku secara manual, yang sering menyebabkan kesalahan dan kurang efisien. Karena itu, BookHive dibuat untuk membantu mengelola data buku, peminjaman, dan pengembalian secara digital agar lebih cepat, rapi, dan akurat.
+# 🔎Tujuan 
+Tujuan dari aplikasi ini adalah untuk mempermudah pengelolaan perpustakaan agar lebih cepat, rapi, dan minim kesalahan.
 
-# Fitur Utama 
-A. Manajemen Buku 
- 1. Tambah, edit, dan hapus data buku
- 2. Pencarian buku berdasarkan judul, pengarang, ISBN, atau kategori
- 3. Informasi stok tersedia dan total eksemplar
- 4. Upload sampul buku
+# 🗃️Fitur Utama
+- Manajemen data buku
+- Manajemen anggota
+- Peminjaman buku
+- Pengembalian buku
+- Perhitungan denda otomatis
 
-B. Manajemen Anggota
- 1. Registrasi dan manajemen data anggota
- 2. Kartu anggota digital dengan QR Code
- 3. Riwayat peminjaman per anggota
- 4. Status keanggotaan aktif/tidak aktif
+# 💡Teknologi
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
-C. Peminjaman Buku
- 1. Form peminjaman dengan validasi stok otomatis
- 2. Penentuan tanggal pinjam dan batas pengembalian
- 3. Notifikasi jatuh tempo peminjaman
- 4. Batas maksimal 3 buku per anggota
+# 🚀 Cara Menjalankan
+1. Install XAMPP
+2. Jalankan Apache dan MySQL
+3. Pindahkan folder project ke htdocs
+4. Import database ke phpMyAdmin
+5. Jalankan di browser:
+   http://localhost/BookHive
 
-D. Pengembalian Buku
- 1. Form pengembalian dengan perhitungan otomatis keterlambatan
- 2. Kalkulasi denda per hari keterlambatan
- 3. Update stok buku otomatis setelah pengembalian
- 4. Riwayat pengembalian tersimpan
 
-E. Laporan & Statistik
- 1. Laporan peminjaman harian, mingguan, bulanan
- 2. Buku paling banyak dipinjam
- 3. Daftar anggota aktif dan peminjaman tertunggak
- 4. Rekap denda terkumpul
+# 📂 Struktur Folder
+- /api → file PHP backend
+- /assets → CSS & gambar
+- index.html → halaman utama
+- script.js → logic frontend
+
+# 📝Lisensi
+Project ini menggunakan MIT License
