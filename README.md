@@ -24,7 +24,7 @@ Membantu proses pengelolaan perpustakaan agar lebih efisien dan mengurangi kesal
 3. Pindahkan folder ke `htdocs`  
 4. Import database ke phpMyAdmin  
 5. Buka di browser:  
-   `http://localhost/BookHive`
+   `http://localhost/BOOKHIVE`
 
 ## 📂 Struktur Folder
 - `/api` → backend PHP  
