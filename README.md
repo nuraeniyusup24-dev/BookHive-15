@@ -1,37 +1,38 @@
-# 📚BookHive
-BookHive adalah aplikasi perpustakaan digital untuk mengelola data buku, anggota, peminjaman, dan pengembalian secara efisien dan terstruktur.
+# BookHive 🐝📚
 
-# 🔎Tujuan 
-Tujuan dari aplikasi ini adalah untuk mempermudah pengelolaan perpustakaan agar lebih cepat, rapi, dan minim kesalahan.
+## 📝 Deskripsi
+BookHive adalah aplikasi perpustakaan digital yang membantu mengelola data buku, anggota, peminjaman, dan pengembalian secara lebih mudah, cepat, dan rapi.
 
-# 🗃️Fitur Utama
-- Manajemen data buku
-- Manajemen anggota
-- Peminjaman buku
-- Pengembalian buku
-- Perhitungan denda otomatis
+## 🎯 Tujuan
+Membantu proses pengelolaan perpustakaan agar lebih efisien dan mengurangi kesalahan pencatatan manual.
 
-# 💡Teknologi
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+## ⚙️ Fitur
+- 📚 Manajemen data buku  
+- 👤 Manajemen anggota  
+- 🔄 Peminjaman buku  
+- ✅ Pengembalian buku  
+- 💰 Perhitungan denda otomatis  
 
-# 🚀 Cara Menjalankan
-1. Install XAMPP
-2. Jalankan Apache dan MySQL
-3. Pindahkan folder project ke htdocs
-4. Import database ke phpMyAdmin
-5. Jalankan di browser:
-   http://localhost/BOOKHIVE
+## 🛠️ Teknologi
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- MySQL  
 
+## 🚀 Cara Menjalankan
+1. Install XAMPP  
+2. Jalankan Apache & MySQL  
+3. Pindahkan folder ke `htdocs`  
+4. Import database ke phpMyAdmin  
+5. Buka di browser:  
+   `http://localhost/BookHive`
 
-# 📂 Struktur Folder
-- /api → file PHP backend
-- /assets → CSS & gambar
-- index.html → halaman utama
-- script.js → logic frontend
+## 📂 Struktur Folder
+- `/api` → backend PHP  
+- `/assets` → file CSS & gambar  
+- `index.html` → halaman utama  
+- `script.js` → logic aplikasi  
 
-# 📝Lisensi
-Project ini menggunakan MIT License
+## 📄 Lisensi
+MIT License
