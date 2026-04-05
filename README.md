@@ -11,7 +11,7 @@ Membantu proses pengelolaan perpustakaan agar lebih efisien dan mengurangi kesal
 - ✅ Pengembalian buku  
 - 💰 Perhitungan denda otomatis  
 
-## 🛠️ Teknologi
+## 🛠️ code
 - HTML
 - PHP  
 - MySQL  
