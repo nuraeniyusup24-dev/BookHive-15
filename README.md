@@ -13,15 +13,13 @@ A. Manajemen Buku
 
 B. Manajemen Anggota
  1. Registrasi dan manajemen data anggota
- 2. Kartu anggota digital dengan QR Code
- 3. Riwayat peminjaman per anggota
- 4. Status keanggotaan aktif/tidak aktif
+ 2. Riwayat peminjaman per anggota
+ 3. Status keanggotaan aktif/tidak aktif
 
 C. Peminjaman Buku
  1. Form peminjaman dengan validasi stok otomatis
  2. Penentuan tanggal pinjam dan batas pengembalian
  3. Notifikasi jatuh tempo peminjaman
- 4. Batas maksimal 3 buku per anggota
 
 D. Pengembalian Buku
  1. Form pengembalian dengan perhitungan otomatis keterlambatan
