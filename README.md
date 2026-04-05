@@ -12,9 +12,7 @@ Membantu proses pengelolaan perpustakaan agar lebih efisien dan mengurangi kesal
 - 💰 Perhitungan denda otomatis  
 
 ## 🛠️ Teknologi
-- HTML  
-- CSS  
-- JavaScript  
+- HTML
 - PHP  
 - MySQL  
 
